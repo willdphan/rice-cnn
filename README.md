@@ -11,25 +11,6 @@ This notebook focuses on the rice image dataset on [Kaggle](https://www.kaggle.c
 ## Objective
 The goal is to build a robust machine learning model capable of accurately classifying rice images into their respective varieties. This can assist in various applications such as agricultural research, crop management, and quality control in the rice industry.
 
-## Steps to CNN
-1. Import Libraries
-2. Open Dataset and Define Classes
-3. Get Image and Data Size
-4. Define Device
-5. Define Hyperparameters
-6. Create Transform Variable
-7. Split into Train, Test, Valid Datsets
-8. Use DataLoader for Batch Size
-9. Display Images
-10 CNN Model
-11. Save Model to Device
-12. Define Loss and Optimizer
-13. Train Function
-14. Validation Function
-15. Define Loss Function and Optimizer
-16. Test Model with Image from Test Dataset
-
-
 [Code](Rice_Classifier_CNN.ipynb)
 
 ## License
